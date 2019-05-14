@@ -171,7 +171,7 @@ iframe {
 [ login ]*/
 .limiter {
   width: 100%;
-  margin: 0 auto;
+  margin: 100 auto;
 }
 
 .container-login100 {
@@ -199,6 +199,7 @@ iframe {
 [ Login100 more ]*/
 .login100-more {
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-position: center;
   background-size: cover;
   width: calc(100% - 520px);
